@@ -1,6 +1,6 @@
 ## Modeling Neutrino Time-of-Flight Distributions with Neural Networks
 Author : Anushka Shreyam
 
-This project explores the application of neural networks to predict and analyze neutrino time-of-flight (TOF) distributions, contributing to the study of particle behavior in High-Energy Physics (HEP). By employing machine learning techniques, the project aims to uncover insights into TOF distributions with high precision, leveraging experimental datasets and advanced computational tools. 
+This research project explores the intersection of neural networks and High-Energy Physics by developing advanced machine learning models to predict and analyze neutrino time-of-flight (TOF) distributions. By leveraging sophisticated neural network architectures and experimental datasets, the research aims to enhance computational precision in understanding particle behavior, generate novel insights into stochastic particle movement patterns, and contribute transformative methodological approaches to particle physics research through innovative computational techniques.
 
 
